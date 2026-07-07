@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "slug": "spinning-mill-setup",
+    "title": "Complete Spinning Mill Setup",
+    "category": "Spinning",
+    "image": "https://images.pexels.com/photos/3822522/pexels-photo-3822522.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Full turnkey installation of a 30,000-spindle spinning mill including machinery supply, installation, and commissioning."
+  },
+  {
+    "id": 2,
+    "slug": "weaving-plant-modernization",
+    "title": "Weaving Plant Modernization",
+    "category": "Weaving",
+    "image": "https://images.pexels.com/photos/3822522/pexels-photo-3822522.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Upgraded a traditional weaving facility with 120 high-speed air-jet looms, increasing output by 40%."
+  },
+  {
+    "id": 3,
+    "slug": "dye-house-automation",
+    "title": "Dye House Automation Project",
+    "category": "Dyeing",
+    "image": "https://images.pexels.com/photos/3822522/pexels-photo-3822522.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Automated a dye house with smart dyeing machines and centralized process control for a major textile exporter."
+  },
+  {
+    "id": 4,
+    "slug": "knitting-unit-expansion",
+    "title": "Knitting Unit Expansion",
+    "category": "Knitting",
+    "image": "https://images.pexels.com/photos/3822522/pexels-photo-3822522.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Expanded a circular knitting operation with 24 new machines, doubling production capacity within six months."
+  },
+  {
+    "id": 5,
+    "slug": "finishing-line-installation",
+    "title": "Finishing Line Installation",
+    "category": "Finishing",
+    "image": "https://images.pexels.com/photos/3822522/pexels-photo-3822522.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Installed a complete stenter and finishing line for a home textile manufacturer serving European markets."
+  },
+  {
+    "id": 6,
+    "slug": "spare-parts-warehouse",
+    "title": "Spare Parts Distribution Hub",
+    "category": "Logistics",
+    "image": "https://images.pexels.com/photos/3822522/pexels-photo-3822522.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Established a centralized spare parts warehouse serving over 200 textile mills across the region."
+  }
+]

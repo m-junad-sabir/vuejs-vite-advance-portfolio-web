@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "slug": "machine-maintenance",
+    "title": "Machine Maintenance",
+    "icon": "wrench",
+    "shortDescription": "Comprehensive maintenance services to keep your textile machinery running at peak performance with minimal downtime.",
+    "fullDescription": "Our machine maintenance service provides scheduled and on-demand maintenance for a wide range of textile industrial machinery. Our certified technicians use diagnostic tools and genuine parts to ensure optimal performance, extend equipment lifespan, and reduce unexpected breakdowns.",
+    "features": ["Preventive maintenance scheduling", "On-site technical support", "Genuine spare parts", "Performance diagnostics"]
+  },
+  {
+    "id": 2,
+    "slug": "spare-parts-supply",
+    "title": "Spare Parts Supply",
+    "icon": "gear",
+    "shortDescription": "Reliable supply of genuine and OEM spare parts for all major textile machinery brands and models.",
+    "fullDescription": "We maintain an extensive inventory of genuine and OEM-compatible spare parts for textile machinery. As authorized stockists for leading international brands, we ensure fast delivery and competitive pricing on components ranging from bearings and gears to electronic control units.",
+    "features": ["Extensive parts inventory", "Authorized brand stockist", "Fast nationwide delivery", "Quality assurance on all parts"]
+  },
+  {
+    "id": 3,
+    "slug": "machinery-import",
+    "title": "Machinery Import",
+    "icon": "truck",
+    "shortDescription": "End-to-end import solutions for textile industrial machinery from leading global manufacturers.",
+    "fullDescription": "As experienced indenters, we handle the complete import process for textile machinery — from sourcing and negotiation with international manufacturers to customs clearance and delivery. Our global network spans Germany, Japan, Italy, China, and more.",
+    "features": ["Global manufacturer network", "Customs clearance handling", "Quality inspection at origin", "Door-to-door logistics"]
+  },
+  {
+    "id": 4,
+    "slug": "technical-consultancy",
+    "title": "Technical Consultancy",
+    "icon": "chart",
+    "shortDescription": "Expert engineering consultancy to optimize your production lines and machinery investments.",
+    "fullDescription": "Our technical consultancy service helps textile manufacturers make informed decisions about machinery selection, plant layout, process optimization, and technology upgrades. Our engineers bring decades of combined industry experience to every project.",
+    "features": ["Machinery selection advisory", "Plant layout optimization", "Process efficiency analysis", "Technology upgrade planning"]
+  },
+  {
+    "id": 5,
+    "slug": "installation-commissioning",
+    "title": "Installation & Commissioning",
+    "icon": "tools",
+    "shortDescription": "Professional installation and commissioning of textile machinery to ensure smooth operations from day one.",
+    "fullDescription": "Our installation and commissioning team handles the complete setup of your new machinery — from site preparation and mechanical installation to electrical wiring, calibration, testing, and operator handover. We ensure your equipment meets all performance specifications before going live.",
+    "features": ["Site preparation guidance", "Mechanical & electrical installation", "Calibration and testing", "Operator training and handover"]
+  },
+  {
+    "id": 6,
+    "slug": "after-sales-support",
+    "title": "After-Sales Support",
+    "icon": "headset",
+    "shortDescription": "Dedicated after-sales support including troubleshooting, repairs, and ongoing technical assistance.",
+    "fullDescription": "Our commitment doesn't end at delivery. We provide comprehensive after-sales support including remote troubleshooting, on-site repairs, software updates, and a dedicated support hotline. Our service contracts ensure priority response times and regular health checks for your equipment.",
+    "features": ["24/7 support hotline", "On-site repair service", "Preventive service contracts", "Remote diagnostics"]
+  }
+]

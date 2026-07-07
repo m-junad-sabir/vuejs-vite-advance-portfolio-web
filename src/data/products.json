@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "slug": "textile-spindle",
+    "name": "Textile Spindle",
+    "category": "Spinning",
+    "image": "https://images.pexels.com/photos/3822522/pexels-photo-3822522.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "shortDescription": "High-precision spindles for ring and rotor spinning machines, engineered for low vibration and high speed.",
+    "specs": { "Model": "SI-SP-100", "Origin": "Germany", "Max Speed": "25,000 RPM", "Material": "High-grade steel" }
+  },
+  {
+    "id": 2,
+    "slug": "weaving-loom",
+    "name": "Weaving Loom",
+    "category": "Weaving",
+    "image": "https://images.pexels.com/photos/3822522/pexels-photo-3822522.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "shortDescription": "Rapier and air-jet weaving looms for high-efficiency fabric production with advanced control systems.",
+    "specs": { "Model": "SI-WL-200", "Origin": "Italy", "Width": "190-360 cm", "Speed": "850 RPM" }
+  },
+  {
+    "id": 3,
+    "slug": "knitting-machine",
+    "name": "Circular Knitting Machine",
+    "category": "Knitting",
+    "image": "https://images.pexels.com/photos/3822522/pexels-photo-3822522.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "shortDescription": "High-speed circular knitting machines for seamless fabric production with multiple feeders.",
+    "specs": { "Model": "SI-CK-300", "Origin": "Japan", "Diameter": "30 inches", "Feeders": "90" }
+  },
+  {
+    "id": 4,
+    "slug": "dyeing-machine",
+    "name": "Dyeing Machine",
+    "category": "Dyeing",
+    "image": "https://images.pexels.com/photos/3822522/pexels-photo-3822522.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "shortDescription": "Energy-efficient dyeing machines with precise temperature and flow control for consistent color results.",
+    "specs": { "Model": "SI-DM-400", "Origin": "China", "Capacity": "500 kg", "Temperature": "140°C" }
+  },
+  {
+    "id": 5,
+    "slug": "finishing-stenter",
+    "name": "Stenter Frame",
+    "category": "Finishing",
+    "image": "https://images.pexels.com/photos/3822522/pexels-photo-3822522.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "shortDescription": "Stenter frames for fabric finishing, drying, and heat setting with uniform temperature distribution.",
+    "specs": { "Model": "SI-SF-500", "Origin": "Germany", "Width": "180 cm", "Chambers": "8" }
+  },
+  {
+    "id": 6,
+    "slug": "yarn-twister",
+    "name": "Yarn Twisting Machine",
+    "category": "Spinning",
+    "image": "https://images.pexels.com/photos/3822522/pexels-photo-3822522.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "shortDescription": "Two-for-one twisting machines for high-quality twisted yarn with low energy consumption.",
+    "specs": { "Model": "SI-YT-600", "Origin": "Italy", "Spindles": "160", "Speed": "12,000 RPM" }
+  }
+]

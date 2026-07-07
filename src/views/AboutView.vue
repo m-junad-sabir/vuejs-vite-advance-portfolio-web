@@ -16,10 +16,10 @@ const values = [
 ]
 
 const team = [
-  { name: 'Muhammad Seher', role: 'Founder & CEO', image: 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=400' },
-  { name: 'Ayesha Khan', role: 'Chief Operations Officer', image: 'https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=400' },
-  { name: 'Bilal Ahmed', role: 'Technical Director', image: 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=400' },
-  { name: 'Sana Malik', role: 'Sales Manager', image: 'https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=400' }
+  { name: 'Muhammad Junaid Sabir', role: 'Founder & CEO', image: '/Profilepicture3.png' },
+  { name: 'Ayesha Khan', role: 'Chief Operations Officer', image: '/public/anime-8937917_1280.png' },
+  { name: 'Junaid Sabir', role: 'Technical Director', image: '/Profilepicturenew.png' },
+  { name: 'Sana Malik', role: 'Sales Manager', image: '/public/girl-8880144_1280.png' }
 ]
 
 const timeline = [
@@ -52,7 +52,7 @@ const timeline = [
             <p>As we look to the future, we remain dedicated to innovation, sustainability, and the continued success of our clients. Every machine we supply, every service we provide, and every relationship we build is guided by our core belief: great engineering drives great industry.</p>
           </div>
           <div class="about-detail__story-image">
-            <img src="https://images.pexels.com/photos/3822522/pexels-photo-3822522.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Textile manufacturing facility" loading="lazy" />
+            <img src="/our-story.jpg" alt="Textile manufacturing facility" loading="lazy" />
           </div>
         </div>
       </div>

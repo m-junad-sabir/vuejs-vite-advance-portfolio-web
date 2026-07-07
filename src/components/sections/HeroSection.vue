@@ -46,7 +46,7 @@ import { RouterLink } from 'vue-router'
   content: '';
   position: absolute;
   inset: 0;
-  background-image: url('https://images.pexels.com/photos/3822522/pexels-photo-3822522.jpeg?auto=compress&cs=tinysrgb&w=1920');
+  background-image: url('/hero-image.jpg');
   background-size: cover;
   background-position: center;
   opacity: 0.25;

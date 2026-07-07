@@ -35,7 +35,7 @@ const stats = [
           <RouterLink to="/about" class="btn btn--primary">Learn More</RouterLink>
         </div>
         <div class="about-section__image">
-          <img src="https://images.pexels.com/photos/3822522/pexels-photo-3822522.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Industrial textile machinery in operation" loading="lazy" />
+          <img src="/about-image.jpg" alt="Industrial textile machinery in operation" loading="lazy" />
           <div class="about-section__badge">
             <strong>40+</strong>
             <span>Years of Experience</span>

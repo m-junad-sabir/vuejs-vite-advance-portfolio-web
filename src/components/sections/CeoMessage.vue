@@ -9,7 +9,7 @@
         <p class="section-label">From the CEO's Desk</p>
         <div class="ceo-message__content">
           <div class="ceo-message__photo">
-            <img src="https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=400" alt="CEO portrait" loading="lazy" />
+            <img src="/Profilepicture3.png" alt="CEO portrait" loading="lazy" />
           </div>
           <div class="ceo-message__text">
             <blockquote>
@@ -20,7 +20,7 @@
               sustainable growth in every mill we serve.
             </blockquote>
             <div class="ceo-message__author">
-              <strong>Muhammad Seher</strong>
+              <strong>Muhammad Junaid Sabir</strong>
               <span>Founder &amp; CEO, Seher International</span>
             </div>
           </div>

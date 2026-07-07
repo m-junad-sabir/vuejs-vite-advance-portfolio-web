@@ -72,10 +72,13 @@ defineProps({
 .portfolio-card__btn {
   transform: translateY(10px);
   transition: transform var(--transition-base);
+  background-color: var(--color-primary);
+  color: var(--color-surface);
 }
 
 .portfolio-card:hover .portfolio-card__btn {
   transform: translateY(0);
+  background-color: var(--color-primary-dark);
 }
 
 .portfolio-card__body {

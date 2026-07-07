@@ -96,7 +96,7 @@ const stats = [
   position: absolute;
   bottom: -20px;
   left: -20px;
-  background-color: var(--color-primary);
+  background-color: #ffb515;
   color: #fff;
   padding: var(--space-3);
   border-radius: var(--radius-lg);
@@ -110,7 +110,7 @@ const stats = [
 .about-section__badge strong {
   font-size: 2rem;
   font-weight: 800;
-  color: var(--color-accent);
+  color: #000000;
   line-height: 1;
 }
 
@@ -118,7 +118,7 @@ const stats = [
   font-size: 0.75rem;
   text-align: center;
   margin-top: 0.25rem;
-  color: rgba(255,255,255,0.8);
+  color: rgba(0, 0, 0, 0.8);
 }
 
 @media (max-width: 1023px) {

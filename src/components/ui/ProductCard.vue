@@ -58,8 +58,8 @@ defineProps({
   padding: 0.25rem 0.75rem;
   font-size: 0.75rem;
   font-weight: 600;
-  background-color: rgba(255,255,255,0.95);
-  color: var(--color-primary);
+  background-color: rgba(255, 178, 11, 0.95);
+  color: var(--color-surface);
   border-radius: var(--radius-pill);
 }
 
